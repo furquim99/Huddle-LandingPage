@@ -1,0 +1,6 @@
+:root{
+    --main: var(hsl(257, 81%, 62%));
+    --botao: var(hsl(257, 92%, 67%));
+    --botao-ativo: var(rgb(195, 139, 247));
+    --fonte: 'Ubuntu', sans-serif;
+}
